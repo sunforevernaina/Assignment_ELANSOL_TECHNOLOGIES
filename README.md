@@ -1,5 +1,4 @@
-### Assignment 
-#### ELANSOL TECHNOLOGIES
+### Assignment - ELANSOL TECHNOLOGIES
 
 1. Final_Assignment-CV.pdf - This pdf file contains detailed solution/approach for solving the given problems in assignment
 2. Assignment.ipynb - This Google Colab notebook contains concise code snippets for performing pre-processing on a sample video, along with other essential functions.
